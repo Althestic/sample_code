@@ -1,5 +1,4 @@
 # Written in Python 3.4 on Windows 10 by Connor Sanders
-# Development V. 0.4
 
 
 import os
